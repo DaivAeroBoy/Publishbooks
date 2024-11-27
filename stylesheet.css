@@ -1,0 +1,21 @@
+Marquee{
+        Font-size:40px;
+        color:Blue;
+}
+a{
+        Font-size:20px;
+}
+a:link{
+        color:green;
+}
+a:visited{
+        color:#222E50;
+}
+a:hover{
+        color:#D64933;
+        text-decoration: overline;
+}
+a:active{
+        color:#BC5F04;
+        text-decoration: underline;
+}
